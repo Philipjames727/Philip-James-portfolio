@@ -1,125 +1,73 @@
-Welcome to my GitHub portfolio!
+# Hi, I'm Philip James.
 
-I am a Bachelor of Science graduate in Mathematics with Information Technology (Statistics Option) from Masinde Muliro University of Science and Technology (MMUST), Kenya.
+### Mathematics & IT Graduate (Statistics) | Aspiring Data Analyst
 
-I am passionate about transforming raw data into meaningful insights that support informed decision-making. My interests include data analytics, statistical modelling, research, data visualization, business intelligence, and monitoring and evaluation.
+I am a Mathematics and IT graduate, specialising in Statistics, from Masinde Muliro University of Science and Technology (MMUST), Kenya.
 
-I use this space to showcase my technical skills, academic research, practical projects, and continuous growth in the field of data analytics and statistics.
+My interest lies in working with data, understanding what it tells us, and using statistical methods and analytical tools to answer practical questions. During my studies, I developed an interest in statistical analysis, research and data interpretation, which has motivated me to continue developing my skills.
 
-🎯 Areas of Interest
+This GitHub account is where I share some of the work I have done, projects I am currently working on, and things I learn along the way. I am particularly interested in applying statistics and data analytics to real-world problems.
 
-Data Analytics and Statistical Analysis
+## Areas of Interest
 
-Statistical Modelling and Predictive Analytics
+- Data Analysis and Interpretation
+- Statistical Modelling
+- Data Visualization
+- Business Intelligence
+- Research and Applied Statistics
+- Monitoring and Evaluation
 
-Data Cleaning and Preparation
+## Technical Skills
 
-Data Visualization and Reporting
+| Tool | Proficiency |
+|---|---|
+| Microsoft Excel | Advanced |
+| Power BI | Advanced |
+| SPSS | Advanced |
+| R Programming | Intermediate |
+| Python | Intermediate |
+| LaTeX | Advanced |
+| Microsoft Word | Advanced |
 
-Business Intelligence
+*These are my current self-assessed proficiency levels, and I am continuously working to improve them through practical application.*
 
-Research and Data Interpretation
+## Projects
 
-Monitoring, Evaluation and Learning (MEL)
+### 1. Statistical Modelling of Congenital Syphilis in Kakamega County
 
-🛠️ Technical Skills
+This was my undergraduate research project, carried out in collaboration with fellow students under academic supervision.
 
-Tool
+The study involved using statistical methods, particularly binary logistic regression, to investigate factors associated with congenital syphilis in Kakamega County, Kenya.
 
-Proficiency
+My involvement covered various stages of the research, including data preparation, cleaning, statistical analysis, interpretation of results and report preparation.
 
-Microsoft Excel
+**Tools:** SPSS, Microsoft Excel and R.
 
-Advanced
+## What I Am Working On
 
-Power BI
+I am currently focusing on improving more in:
 
-Advanced
+- Advanced Excel, particularly data analysis and reporting.
+- Power BI, with an emphasis on dashboard development.
+- R and Python for statistical computing and data analysis.
+- Statistical modelling and interpretation.
+- Git and GitHub for managing and documenting projects.
 
-SPSS
+## A Little About My Direction
 
-Advanced
+I want to build a career around statistics, data analysis and research. I am interested in opportunities where I can apply my analytical skills, learn from experienced professionals and contribute to solving practical problems.
 
-R Programming
+I also understand that having academic knowledge is only one part of the journey. Developing the ability to apply that knowledge to actual datasets and communicate findings clearly is equally important. That is what I am working towards.
 
-Intermediate
+## Let's Connect
 
-Python
+I am open to professional connections, research collaborations, internships and opportunities in:
 
-Intermediate
+- Data Analytics
+- Statistical Research
+- Business Intelligence
+- Monitoring and Evaluation
 
-LaTeX
+Thank you for stopping by. Feel free to explore my repositories and follow my progress.
 
-Advanced
-
-Microsoft Word
-
-Advanced
-
-Proficiency levels are self-assessed and will continue to grow through practical projects.
-
-📊 Featured Projects
-
-1. Statistical Modelling of Congenital Syphilis in Kakamega County
-
-An academic research project involving the application of binary logistic regression to investigate factors associated with congenital syphilis in Kakamega County, Kenya.
-
-Key areas covered:
-
-Statistical data analysis
-
-Data preparation and cleaning
-
-Descriptive statistics
-
-Binary logistic regression
-
-Model evaluation and interpretation
-
-Statistical reporting using SPSS
-
-Tools: SPSS, R, Microsoft Excel
-
-This was a final-year research project undertaken under academic supervision.
-
-Additional projects are being developed and will be added as the portfolio grows.
-
-🌱 Currently Learning and Improving
-
-I am continuously strengthening my practical skills in:
-
-Advanced Excel for data analysis and automation.
-
-Power BI for interactive dashboards and business intelligence.
-
-R and Python for statistical computing and data analysis.
-
-Statistical modelling and predictive analytics.
-
-Git and GitHub for version control and project documentation.
-
-💡 My Professional Goal
-
-My goal is to grow into a competent data analyst and statistician capable of using data to solve real-world problems, support research, improve organizational performance, and facilitate evidence-based decision-making.
-
-I believe in continuous learning, practical application, collaboration, and using data to create meaningful impact.
-
-🤝 Let's Connect
-
-I am open to opportunities involving:
-
-Data Analytics
-
-Statistical Research
-
-Business Intelligence
-
-Monitoring and Evaluation
-
-Research Collaboration
-
-Professional Development
-
-Thank you for visiting my GitHub profile. Feel free to explore my repositories and follow my journey as I continue learning, building, and growing.
-
-Turning Data into Meaningful Insights. 📊
+**Philip James**
